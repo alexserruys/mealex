@@ -3,7 +3,7 @@ body {
   font-family: 'Goblin One', cursive;
   font-size: 15px;
   line-height:1.6;
-  color: #40557f
+  color: #40557f;
   margin: 0 auto;
 }
 
@@ -11,7 +11,7 @@ h1, h2, h3 {
   font-family: 'Goblin One', cursive;
   font-size: 20px;
   line-height:1.6;
-  color: #40557f
+  color: #40557f;
 }
 
 p {
@@ -20,7 +20,7 @@ p {
 }
 
 a:hover {
-  color: red;
+  color: black;
 }
 
 .container {
@@ -34,7 +34,7 @@ a:hover {
   border-radius: 4px;
   padding: 20px;
   width: 700px ;
-  margin-bottom: 20px
+  margin-bottom: 20px;
 }
 
 .btn-blue {
